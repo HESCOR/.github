@@ -34,6 +34,9 @@ This GitHub organization serves as a **curated entry point** to HESCOR-related c
 - **Green Wave** — Research codebase for reconstructing vegetation phenology and “green waves” using satellite vegetation indices (e.g., NDVI), orbital/insolation forcing, and paleoclimate reconstructions, with links to questions around human mobility and settlement dynamics.  
   Repo: https://github.com/roink/green_wave
 
+- **HEP-Model (Human Existence Potential Model)** — Research code for estimating spatially explicit human existence potential maps from archaeological presence/absence data and BioClim climate variables using a logistic-regression framework, with applications to questions of human dispersal and settlement dynamics.  
+  Repo: https://github.com/ChrisWege/HumanExistencePotential
+
 ### Data infrastructure
 
 - **ckan-docker (HESCOR fork)** — Docker Compose-based CKAN deployment setup, used as the basis for our CKAN-backed data portal/database work.  
