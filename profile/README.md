@@ -44,6 +44,9 @@ This GitHub organization serves as a **curated entry point** to HESCOR-related c
 
 ### Project tools
 
+- **HESCOR Data Learning Lab** — Two browser-based educational games for teaching data quality and variable types, available as a combined website and as downloadable H5P packages.\
+  Repo: https://github.com/roink/data-detective
+
 - **survey123_to_pdf** — Command-line workflow to turn a Survey123 CSV export into per-response A4 PDF summaries (grouping repeated blocks and skipping unanswered questions).  
   Repo: https://github.com/roink/survey123_to_pdf
 
