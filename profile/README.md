@@ -2,7 +2,8 @@
 
 HESCOR (Human & Earth System Coupled Research) is an interdisciplinary research initiative at the **University of Cologne** that brings together Earth system science, human system modelling, and the humanities to study how interactions between **nature and culture** have shaped—and continue to shape—our world.
 
-- Project website: http://www.hescor-project.com/
+- Project website archive: https://hescor.github.io/
+- Original project website: https://www.hescor-project.com/
 - Bluesky: https://bsky.app/profile/hescor.bsky.social
 
 ---
@@ -44,6 +45,8 @@ This GitHub organization serves as a **curated entry point** to HESCOR-related c
 
 ### Project tools
 
+- **HESCOR project website archive** — Long-term static archive of the public HESCOR WordPress website, including its educational material and interactive H5P content. Website: https://hescor.github.io/ · Repo: https://github.com/HESCOR/HESCOR.github.io
+
 - **HESCOR Data Learning Lab** — Two browser-based educational games for teaching data quality and variable types, available as a combined website and as downloadable H5P packages.\
   Repo: https://github.com/roink/data-detective
 
@@ -54,6 +57,6 @@ This GitHub organization serves as a **curated entry point** to HESCOR-related c
 
 ## Contact & updates
 
-The project website is the primary hub for news, publications, and contact information:
+The archived project website is the long-term hub for project information, publications, and educational material:
 
-http://www.hescor-project.com/
+https://hescor.github.io/
