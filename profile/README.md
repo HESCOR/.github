@@ -49,6 +49,9 @@ This GitHub organization serves as a **curated entry point** to HESCOR-related c
 - **ckan-docker (HESCOR fork)** — Docker Compose-based CKAN deployment setup, used as the basis for our CKAN-backed data portal/database work.  
   Repo: https://github.com/roink/ckan-docker
 
+- **ckanext-scheming (HESCOR fork)** — CKAN extension for configuring and sharing custom metadata schemas in YAML or JSON, with support for custom validation and metadata editing and display templates.\
+  Repo: https://github.com/roink/ckanext-scheming
+
 ### Project tools
 
 - **Palaeo-landscape Explorer** — Interactive visualisations of palaeo-landscapes, research bias, and Human Existence Potential, developed for public outreach and science communication as part of the HESCOR Virtual Exhibition.\
