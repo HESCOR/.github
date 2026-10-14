@@ -1,3 +1,5 @@
+[![GitHub Org](https://img.shields.io/badge/GitHub-HESCOR-blue?logo=github&logoColor=white)](https://github.com/HESCOR)
+
 # HESCOR GitHub Quickstart
 
 This guide describes the **minimal “publishable” research-code repository** for HESCOR (README + LICENSE + CITATION), and a set of **nice-to-haves** that improve reuse and discoverability.
