@@ -8,6 +8,17 @@ HESCOR (Human & Earth System Coupled Research) is an interdisciplinary research 
 
 ---
 
+## Funding
+
+HESCOR was funded by the **Ministry for Culture and Science of North Rhine-Westphalia, Germany**, through the *Profile Building 2022* programme (**PB22-081**).
+
+**Funding period:** 1 November 2023 – 31 October 2026\
+**Host institution:** University of Cologne, Germany
+
+More information: [University of Cologne – Profilbildung NRW](https://verwaltung.uni-koeln.de/forschungsmanagement/content/large_scale_projects/federal_state_foundation_funding/profilbildung_nrw/index_eng.html)
+
+---
+
 ## What we do
 
 HESCOR combines paleoclimate/environmental reconstructions, archaeological evidence, and modern computational methods (including machine learning) to address questions such as:
