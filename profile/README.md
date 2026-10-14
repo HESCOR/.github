@@ -59,7 +59,7 @@ This GitHub organization serves as a **curated entry point** to HESCOR-related c
 
 - **HESCOR project website archive** — Long-term static archive of the public HESCOR WordPress website, including its educational material and interactive H5P content. Website: https://hescor.github.io/ · Repo: https://github.com/HESCOR/HESCOR.github.io
 
-- **HESCOR Data Learning Lab** — Two browser-based educational games for teaching data quality and variable types, available as a combined website and as downloadable H5P packages.\
+- **HESCOR Data Learning Lab (data-detective)** — Interactive browser-based educational games for research communication and public outreach, teaching data quality, variable types, and research data management. Available as a website and as downloadable H5P packages.\
   Repo: https://github.com/roink/data-detective
 
 - **survey123_to_pdf** — Command-line workflow to turn a Survey123 CSV export into per-response A4 PDF summaries (grouping repeated blocks and skipping unanswered questions).  
