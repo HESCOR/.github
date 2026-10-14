@@ -29,6 +29,12 @@ This GitHub organization serves as a **curated entry point** to HESCOR-related c
 
 ### Research software
 
+- **ArcheoGra.jl** — Julia package for reconstructing prehistoric mobility networks from archaeological sites and calculating least-cost paths on topographic data using adaptive wavelet methods and an adaptive Dijkstra’s algorithm.\
+  Repo: https://github.com/MaxBrockm/ArcheoGra.jl
+
+- **AdvDiffMetricGraphs.jl** — Julia package for solving diffusion-reaction and advection-diffusion equations on metric graphs, including geometric multigrid solvers for modelling migration dynamics.\
+  Repo: https://github.com/MaxBrockm/AdvDiffMetricGraphs.jl
+
 - **PaleoVeg** — Python package for paleovegetation reconstruction (predicting vegetation/biome types from bioclimatic variables; includes optional C3/C4 competition corrections).  
   Repo: https://github.com/roink/PaleoVeg
 
