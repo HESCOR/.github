@@ -71,6 +71,8 @@ This GitHub organization serves as a **curated entry point** to HESCOR-related c
 - **HEP Explorer** — Interactive exploration of Human Existence Potential across Europe, developed for public outreach and science communication as part of the HESCOR Virtual Exhibition.\
   Repo: https://github.com/HESCOR/hep-explorer
 
+- **Be a vegetation modeller! (veg-model)** — Interactive exploration of how temperature and precipitation changes affect dominant vegetation, with 81 scenarios from the original Shiny application. Website: https://hescor.github.io/veg-model/ · Repo: https://github.com/HESCOR/veg-model
+
 - **HESCOR project website archive** — Long-term static archive of the public HESCOR WordPress website, including its educational material and interactive H5P content. Website: https://hescor.github.io/ · Repo: https://github.com/HESCOR/HESCOR.github.io
 
 - **HESCOR Data Learning Lab (data-detective)** — Interactive browser-based educational games for research communication and public outreach, teaching data quality, variable types, and research data management. Available as a website and as downloadable H5P packages.\
